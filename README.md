@@ -49,7 +49,7 @@ Wayfair ran an A/B test to evaluate whether a delivery guarantee shown during th
 **Was there a significant difference in cancellation and return rates between orders with the guarantee and those without?**
 
 **Visualization:**  
-[Cancellation & Return Rates - Tableau Sheet 5](https://public.tableau.com/views/WayfairABtestq1/Sheet5)
+[Cancellation & Return Rates - Tableau Sheet 5](https://public.tableau.com/views/WayfairABtestingQ2/Sheet5?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 **Findings:**
 - **Cancellations:** Guarantee group had significantly fewer cancellations (0.021) vs control group (0.058).
